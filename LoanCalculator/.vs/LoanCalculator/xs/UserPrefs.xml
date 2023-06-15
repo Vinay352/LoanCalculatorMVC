@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{2B36937B-BA20-49A8-982E-68EC5FBFBB40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoanCalculator/Views/Home/App.cshtml">
+    <Files>
+      <File FileName="LoanCalculator/Controllers/HomeController.cs" Line="34" Column="31" NotebookId="1" />
+      <File FileName="LoanCalculator/Views/Shared/_Layout.cshtml" Line="26" Column="108" NotebookId="1" />
+      <File FileName="LoanCalculator/Views/Home/App.cshtml" Line="63" Column="24" NotebookId="1" />
+      <File FileName="LoanCalculator/Models/LoanPayment.cs" Line="19" Column="1" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="281" Y="647" Width="669" Height="481">
+        <Files>
+          <File FileName="LoanCalculator/Models/Loan.cs" Line="22" Column="83" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoanCalculator" expanded="True">
+            <Node name="LoanCalculator" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="App.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LoanCalculator PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
